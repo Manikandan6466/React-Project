@@ -8,12 +8,12 @@ import Login from "./pages/Login"
 import Menu from "./pages/Menu"
 import Service from "./pages/Service"
 import Contact from "./pages/Contact"
-import { BrowserRouter,Route,Routes } from "react-router-dom"
+import { HashRouter,Route,Routes } from "react-router-dom"
 
 export default function App()
 {
   return(
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
@@ -24,7 +24,7 @@ export default function App()
               <Route path="contact" element={<Contact />} />
                  </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 const r1=ReactDOM.createRoot(document.getElementById('root'))

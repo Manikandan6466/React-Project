@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Project/static/css/main.710b5071.css",
+    "main.js": "/React-Project/static/js/main.6422a99f.js",
+    "static/media/pexels-annamw-1122857.jpg": "/React-Project/static/media/pexels-annamw-1122857.4f35a01364c6bdda7d48.jpg",
+    "static/media/hero.png": "/React-Project/static/media/hero.fac19e0f2cbb5be17b6c.png",
+    "static/media/bg-hero.jpg": "/React-Project/static/media/bg-hero.bdc8de5f63641403a9bf.jpg",
+    "static/media/team-4.jpg": "/React-Project/static/media/team-4.f728a531be269b3d471d.jpg",
+    "static/media/team-3.jpg": "/React-Project/static/media/team-3.d917072105ceb2beb47e.jpg",
+    "static/media/team-2.jpg": "/React-Project/static/media/team-2.a052551d15a289c07a6f.jpg",
+    "static/media/team-1.jpg": "/React-Project/static/media/team-1.92658d94c39d7c348ed6.jpg",
+    "index.html": "/React-Project/index.html",
+    "main.710b5071.css.map": "/React-Project/static/css/main.710b5071.css.map",
+    "main.6422a99f.js.map": "/React-Project/static/js/main.6422a99f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.710b5071.css",
+    "static/js/main.6422a99f.js"
+  ]
+}

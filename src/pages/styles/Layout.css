@@ -1,0 +1,23 @@
+/* Navbar.css */
+
+/* Active state for navbar links */
+.nav-link.active {
+    font-weight: bold;
+    color: #ffc107 !important; /* Adjust the color as needed */
+}
+
+/* Hover state for navbar links */
+.nav-link:hover {
+    color: #ffc107 !important; /* Adjust the color as needed */
+    text-decoration: underline; /* Add an underline on hover */
+}
+
+/* Style for the Login button */
+.btn-info {
+    background-color: #17a2b8;
+    border: none;
+}
+
+.btn-info:hover {
+    background-color: #138496;
+}
